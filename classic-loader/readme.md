@@ -1,6 +1,6 @@
 # get-css-package
 
-This repository has been prepared for ease of use with ready-made css components used for get applications. You can find different Css and Javascript usages.
+This repository has been prepared for Classic CSS component for any web site .
 ## Installation
 
 Via Git Clone

@@ -1,21 +1,10 @@
-# get-css-package
-
-This repository has been prepared for Classic CSS component for any web site .
-## Installation
-
-Via Git Clone
-
-```bash
- $ git clone https://github.com/GETSoftwareCo/get-css-package.git
- ```
+# Classic-CSS-loader
+This repository has been prepared for the Classic CSS component for any website.
  
-## Documentation
 
+## Screenshot
 
-You can find the docs for the repository [http://css.getsoftwarecompany.com/](http://css.getsoftwarecompany.com/)
- 
-## Directories
-* Classic-CSS-Loader
+ ![alt text](https://github.com/GETSoftwareCo/get-css-package/blob/main/classic-loader/cssLoader.png?raw=true)
 
 
 ## Contributing
